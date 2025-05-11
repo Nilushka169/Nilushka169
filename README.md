@@ -1,6 +1,9 @@
-<!-- Header with animated wave -->
+<!-- Gaming-style Pixel Art Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Hi%20👋%20I'm%20Nilu%20Poornima&fontSize=35&fontAlign=center&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/header.gif" width="100%">
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=91EAE4&center=true&vCenter=true&width=500&lines=Nilu+Poornima;Software+Engineer;MERN+Developer;Open+Uni+SL" alt="Typing Animation">
+  </h1>
 </div>
 
 ---
@@ -92,8 +95,11 @@ A responsive web app for university students to calculate GPAs across semesters.
 
 ---
 
-<!-- Footer -->
+<!-- Gaming Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer" alt="Footer" />
-  <p>🌟 <i>"Learning every day, coding every night!"</i> 🌟</p>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+  <p> 
+    <img src="https://img.shields.io/badge/PRESS-START-91EAE4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Z...">
+  </p>
+  <p>🎮 "Game Over? Insert Coin to Continue!" 🎮</p>
 </div>
