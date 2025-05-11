@@ -5,7 +5,7 @@
 
 ---
 
-<!-- About Me Section with gradient border -->
+<!-- About Me Section -->
 <div align="center" style="border: 3px solid transparent; border-image: linear-gradient(to right, #7F7FD5, #86A8E7, #91EAE4); border-image-slice: 1; padding: 20px; margin: 10px 0; border-radius: 10px;">
   
   ### 🌟 **About Me**
@@ -22,7 +22,7 @@
 
 ---
 
-<!-- Skills Section with icon grid -->
+<!-- Skills Section -->
 ### 🛠 **Skills & Technologies**
 <table width="100%">
   <tr>
@@ -50,29 +50,36 @@
 
 ---
 
-<!-- Projects Section with cards -->
+<!-- Projects Section with Medium Descriptions -->
 ### 🚀 **Featured Projects**
-<details>
-<summary><b>🎯 SkillVerify System</b> (Click to expand)</summary>
-  
-  > A skill verification platform for IT job candidates in Sri Lanka.  
-  > - ✔️ Verifies CV-listed skills through tasks  
-  > - 📊 Assigns points & ranks candidates  
-  > - 🛠 Built with: **MERN stack** (MongoDB, Express, React, Node.js)  
-</details>
 
-<details>
-<summary><b>🏏 Cricket Club Management System</b></summary>
-  
-  > - 👥 Role-based access: Admins, Players, Organizers  
-  > - 📈 Match tracking and club management  
-</details>
+#### 🎯 **SkillVerify System**  
+A comprehensive platform designed to validate IT professionals' skills through practical assessments. Candidates complete real-world tasks to prove their expertise, earning points based on performance. Companies can filter applicants by skill rankings and receive detailed analytics. Built with the MERN stack (MongoDB, Express.js, React, Node.js), it features secure authentication, a dynamic dashboard, and automated feedback generation.  
 
-<details>
-<summary><b>📐 GPA Calculator System</b></summary>
-  
-  > - 📚 Course filters and level-wise GPA tracking  
-</details>
+**Key Features**:  
+- Task-based skill verification  
+- AI-driven ranking algorithm  
+- Company analytics dashboard  
+
+---
+
+#### 🏏 **Cricket Club Management System**  
+A centralized platform for cricket clubs to manage players, matches, and statistics. Admins can create teams, schedule tournaments, and track player performance metrics. Players access personalized dashboards with their match history and skill development suggestions.  
+
+**Key Features**:  
+- Role-based access control (Admin/Player/Organizer)  
+- Real-time match score updates  
+- Player performance analytics  
+
+---
+
+#### 📐 **GPA Calculator System**  
+A responsive web app for university students to calculate GPAs across semesters. Users can input grades for individual courses, filter by compulsory/elective subjects, and visualize academic progress over time.  
+
+**Key Features**:  
+- Multi-semester GPA tracking  
+- Course category filters  
+- Progress visualization charts  
 
 ---
 
