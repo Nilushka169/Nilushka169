@@ -98,4 +98,6 @@ A responsive web app for university students to calculate GPAs across semesters.
 > 🌟 *"Learning every day, coding every night!"* 🌟  
 > — Nilu Poornima
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4b2b,ff416c,7F7FD5&height=120&width=650&section=footer"/>
+</p>
