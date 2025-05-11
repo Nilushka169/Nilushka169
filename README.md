@@ -9,7 +9,7 @@
 ---
 
 <!-- About Me Section -->
-<div align="center" style="border: 3px solid transparent; border-image: linear-gradient(to right, #7F7FD5, #86A8E7, #91EAE4); border-image-slice: 1; padding: 20px; margin: 10px 0; border-radius: 10px;">
+<div align="left" style="border: 3px solid transparent; border-image: linear-gradient(to right, #7F7FD5, #86A8E7, #91EAE4); border-image-slice: 1; padding: 20px; margin: 10px 0; border-radius: 10px;">
   
   ### 🌟 **About Me**
   - 🎓 **Student at**: Open University of Sri Lanka  
