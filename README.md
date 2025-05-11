@@ -60,8 +60,8 @@ Calculate your GPA with course filters, elective/compulsory settings, and level-
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiluPoornima&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiluPoornima&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nilushka169&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilushka169&layout=compact&theme=radical)
 
 ---
 
