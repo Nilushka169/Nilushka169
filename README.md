@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Hi%20👋%20I'm%20Nilu%20Poornima&fontSize=35&fontAlign=center&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Hi%20👋%20I'm%20Poornima%20Wijesinghe&fontSize=35&fontAlign=center&fontColor=ffffff)
 
 Welcome to my GitHub profile! I'm a dedicated **Software Engineering** student from the **Open University of Sri Lanka**, working hard to become a skilled full-stack developer. Currently building real-world apps and diving deep into full-stack development 🚀.
 
