@@ -10,8 +10,8 @@
   
   ### 🌟 **About Me**
   - 🎓 **Student at**: Open University of Sri Lanka  
-  - 📚 **Degree**: B.Sc. in Software Engineering  
-  - 🌱 **Currently Learning**: MERN stack, front-end animations, Flutter  
+  - 📚 **Degree**: BSE in OUSL
+  - 🌱 **Currently Learning**: MERN stack, front-end animations, Flutter, C#, .NET
   - 🔭 **Exploring**: Web development, automation tools, and skill verification systems  
   - 💡 **Research Project**: [SkillVerify System](#skillverify-project)  
   - 🧠 **Goal**: To contribute to innovative systems that solve real-world problems  
