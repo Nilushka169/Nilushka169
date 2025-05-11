@@ -86,8 +86,8 @@ A responsive web app for university students to calculate GPAs across semesters.
 <!-- Stats Section -->
 ### 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiluPoornima&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiluPoornima&layout=compact&theme=radical&hide_border=true" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nilushka169&show_icons=true&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilushka169&layout=compact&theme=radical&hide_border=true" width="45%">
 </div>
 
 ---
