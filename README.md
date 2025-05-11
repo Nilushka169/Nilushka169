@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/header.gif" width="100%">
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=91EAE4&center=true&vCenter=true&width=500&lines= Poornima+ Wijesinghe; Software+ Engineer; MERN+ Developer; Open+ Uni+ SL" alt="Typing Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=2000&pause=1000&color=91EAE4&center=true&vCenter=true&width=500&lines=.Poornima+.Wijesinghe;.Software+.Engineer;.MERN+.Developer;.Open+.Uni+.SL" alt="Typing Animation">
   </h1>
 </div>
 
