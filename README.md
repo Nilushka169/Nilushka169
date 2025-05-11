@@ -95,11 +95,7 @@ A responsive web app for university students to calculate GPAs across semesters.
 
 ---
 
-<!-- Gaming Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
-  <p> 
-    <img src="https://img.shields.io/badge/PRESS-START-91EAE4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Z...">
-  </p>
-  <p>🎮 "Game Over? Insert Coin to Continue!" 🎮</p>
-</div>
+> 🌟 *"Learning every day, coding every night!"* 🌟  
+> — Nilu Poornima
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer)
