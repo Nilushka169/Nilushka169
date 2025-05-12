@@ -1,103 +1,130 @@
-<!-- Gaming-style Pixel Art Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/header.gif" width="100%">
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=1500&pause=500&color=9e1818&center=true&vCenter=true&width=650&lines=Poornima+Wijesinghe;Software+Engineer;MERN+Developer;Open+Uni+SL" alt="Typing Animation">
-  </h1>
-</div>
-
----
-
-<!-- About Me Section -->
-<div align="left" style="border: 3px solid transparent; border-image: linear-gradient(to right, #7F7FD5, #86A8E7, #91EAE4); border-image-slice: 1; padding: 20px; margin: 10px 0; border-radius: 10px;">
   
-  ### 🌟 **About Me**
-  - 🎓 **Student at**: Open University of Sri Lanka  
-  - 📚 **Degree**: BSE in OUSL
-  - 🌱 **Currently Learning**: MERN stack, front-end animations, Flutter, C#, .NET
-  - 🔭 **Exploring**: Web development, automation tools, and skill verification systems  
-  - 💡 **Research Project**: [SkillVerify System](#skillverify-project)  
-  - 🧠 **Goal**: To contribute to innovative systems that solve real-world problems  
-  - 📨 **Contact**: nilupoornima@gmail.com | [LinkedIn](#)  
-  - 🆔 **S Number**: S22009961 | **Reg. Number**: 622515109  
-
+  <!-- 3D Animated Avatar Header -->
+  <img src="https://raw.githubusercontent.com/NiluPoornima/NiluPoornima/main/assets/3d-avatar.gif" width="200">
+  <h1>
+    <span style="color: #7F7FD5">N</span>
+    <span style="color: #86A8E7">i</span>
+    <span style="color: #91EAE4">l</span>
+    <span style="color: #7F7FD5">u</span>
+    <span style="color: #86A8E7">P</span>
+    <span style="color: #91EAE4">o</span>
+    <span style="color: #7F7FD5">o</span>
+    <span style="color: #86A8E7">r</span>
+    <span style="color: #91EAE4">n</span>
+    <span style="color: #7F7FD5">i</span>
+    <span style="color: #86A8E7">m</span>
+    <span style="color: #91EAE4">a</span>
+  </h1>
+  <p>Software Engineering Student | Full-Stack Developer</p>
+  
+  <!-- Social Badges -->
+  <p>
+    <a href="mailto:nilupoornima@gmail.com">
+      <img src="https://img.shields.io/badge/Email-FF5252?style=flat&logo=gmail&logoColor=white">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Nilushka169&color=7F7FD5">
+  </p>
 </div>
 
 ---
 
-<!-- Skills Section -->
-### 🛠 **Skills & Technologies**
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <b>Front-End</b><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    </td>
-    <td width="33%" align="center">
-      <b>Back-End</b><br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-    </td>
-    <td width="33%" align="center">
-      <b>Database & Tools</b><br>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    </td>
-  </tr>
-</table>
+<!-- About Me Card -->
+<div align="center" style="background: linear-gradient(135deg, #7F7FD520 0%, #86A8E720 50%, #91EAE420 100%); border-radius: 20px; padding: 25px; margin: 20px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+
+  <h2 style="color: #7F7FD5; margin-bottom: 15px;">🧑‍💻 About Me</h2>
+  
+  <div align="left" style="columns: 2; column-gap: 30px;">
+    <p>🎓 <b>Student at</b>: Open University of Sri Lanka</p>
+    <p>📚 <b>Degree</b>: BSE in OUSL</p>
+    <p>🌱 <b>Learning</b>: MERN, Flutter, C#, .NET</p>
+    <p>🔭 <b>Exploring</b>: Web Dev & Automation</p>
+    <p>💡 <b>Research</b>: SkillVerify System</p>
+    <p>🧠 <b>Goal</b>: Solve real-world problems</p>
+    <p>🆔 <b>ID</b>: S22009961 | 622515109</p>
+  </div>
+  
+</div>
 
 ---
 
-<!-- Projects Section with Medium Descriptions -->
-### 🚀 **Featured Projects**
+<!-- Skills Hexagons -->
+<h2 align="center" style="color: #86A8E7; margin: 30px 0 20px 0;">🛠 Technical Skills</h2>
 
-#### 🎯 **SkillVerify System**  
-A comprehensive platform designed to validate IT professionals' skills through practical assessments. Candidates complete real-world tasks to prove their expertise, earning points based on performance. Companies can filter applicants by skill rankings and receive detailed analytics. Built with the MERN stack (MongoDB, Express.js, React, Node.js), it features secure authentication, a dynamic dashboard, and automated feedback generation.  
-
-**Key Features**:  
-- Task-based skill verification  
-- AI-driven ranking algorithm  
-- Company analytics dashboard  
-
----
-
-#### 🏏 **Cricket Club Management System**  
-A centralized platform for cricket clubs to manage players, matches, and statistics. Admins can create teams, schedule tournaments, and track player performance metrics. Players access personalized dashboards with their match history and skill development suggestions.  
-
-**Key Features**:  
-- Role-based access control (Admin/Player/Organizer)  
-- Real-time match score updates  
-- Player performance analytics  
-
----
-
-#### 📐 **GPA Calculator System**  
-A responsive web app for university students to calculate GPAs across semesters. Users can input grades for individual courses, filter by compulsory/elective subjects, and visualize academic progress over time.  
-
-**Key Features**:  
-- Multi-semester GPA tracking  
-- Course category filters  
-- Progress visualization charts  
-
----
-
-<!-- Stats Section -->
-### 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nilushka169&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilushka169&layout=compact&theme=radical&hide_border=true" width="45%">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,figma,cs,dotnet&theme=light&perline=7" alt="Skills">
 </div>
 
 ---
 
-> 🌟 *"Learning every day, coding every night!"* 🌟  
-> — Nilu Poornima
+<!-- Projects Showcase -->
+<h2 align="center" style="color: #91EAE4; margin: 40px 0 25px 0;">🚀 Project Portfolio</h2>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4b2b,ff416c,7F7FD5&height=120&width=650&section=footer"/>
-</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 0 10px;">
+
+  <!-- Project 1 -->
+  <div style="background: white; border-radius: 15px; padding: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+    <h3 style="color: #7F7FD5;">🎯 SkillVerify System</h3>
+    <p>A platform validating IT skills through practical assessments with automated ranking and company dashboards.</p>
+    <div style="background: #7F7FD510; border-radius: 10px; padding: 10px; margin-top: 15px;">
+      <p><b>Features:</b></p>
+      <ul>
+        <li>Task-based verification</li>
+        <li>AI ranking algorithm</li>
+        <li>Analytics dashboard</li>
+      </ul>
+      <p><b>Tech:</b> MERN Stack</p>
+    </div>
+  </div>
+
+  <!-- Project 2 -->
+  <div style="background: white; border-radius: 15px; padding: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+    <h3 style="color: #86A8E7;">🏏 Cricket Club Manager</h3>
+    <p>Comprehensive system for managing cricket teams, matches, and player statistics with role-based access.</p>
+    <div style="background: #86A8E710; border-radius: 10px; padding: 10px; margin-top: 15px;">
+      <p><b>Features:</b></p>
+      <ul>
+        <li>Role-based access</li>
+        <li>Real-time updates</li>
+        <li>Performance analytics</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Project 3 -->
+  <div style="background: white; border-radius: 15px; padding: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+    <h3 style="color: #91EAE4;">📐 GPA Calculator</h3>
+    <p>Interactive tool for students to track academic progress across semesters with visualization features.</p>
+    <div style="background: #91EAE410; border-radius: 10px; padding: 10px; margin-top: 15px;">
+      <p><b>Features:</b></p>
+      <ul>
+        <li>Multi-semester tracking</li>
+        <li>Course filters</li>
+        <li>Progress charts</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+---
+
+<!-- GitHub Stats -->
+<h2 align="center" style="color: #7F7FD5; margin: 40px 0 20px 0;">📊 Development Analytics</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nilushka169&show_icons=true&theme=default&bg_color=00000000&hide_border=true&title_color=7F7FD5&icon_color=86A8E7&text_color=555" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilushka169&theme=default&background=00000000&hide_border=true&stroke=7F7FD5&ring=91EAE4&fire=86A8E7&currStreakNum=555" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilushka169&layout=compact&theme=default&bg_color=00000000&hide_border=true&title_color=91EAE4&text_color=555" width="60%">
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center" style="margin-top: 50px;">
+  <p style="font-size: 0.9em; color: #777;">"Learning every day, coding every night!"</p>
+  <img src="https://raw.githubusercontent.com/NiluPoornima/NiluPoornima/main/assets/wave-divider.svg" width="100%">
+  <p style="font-size: 0.8em; color: #999;">© 2023 Nilu Poornima | Open University of Sri Lanka</p>
+</div>
