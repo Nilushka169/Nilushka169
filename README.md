@@ -3,18 +3,18 @@
   <!-- 3D Animated Avatar Header -->
   <img src="https://raw.githubusercontent.com/NiluPoornima/NiluPoornima/main/assets/3d-avatar.gif" width="200">
   <h1>
-    <span style="color: #7F7FD5">N</span>
-    <span style="color: #86A8E7">i</span>
-    <span style="color: #91EAE4">l</span>
-    <span style="color: #7F7FD5">u</span>
-    <span style="color: #86A8E7">P</span>
+    <span style="color: #7F7FD5">P</span>
+    <span style="color: #86A8E7">o</span>
     <span style="color: #91EAE4">o</span>
-    <span style="color: #7F7FD5">o</span>
-    <span style="color: #86A8E7">r</span>
-    <span style="color: #91EAE4">n</span>
+    <span style="color: #7F7FD5">r</span>
+    <span style="color: #86A8E7">n</span>
+    <span style="color: #91EAE4">i</span>
+    <span style="color: #7F7FD5">m</span>
+    <span style="color: #86A8E7">a</span>
+    <span style="color: #91EAE4">W</span>
     <span style="color: #7F7FD5">i</span>
-    <span style="color: #86A8E7">m</span>
-    <span style="color: #91EAE4">a</span>
+    <span style="color: #86A8E7">j</span>
+    <span style="color: #91EAE4">e</span>
   </h1>
   <p>Software Engineering Student | Full-Stack Developer</p>
   
