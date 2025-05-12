@@ -47,7 +47,7 @@
     <p>🎓 <b>Student at</b>: Open University of Sri Lanka</p>
     <p>📚 <b>Degree</b>: BSE in OUSL</p>
     <p>🌱 <b>Learning</b>: MERN, Flutter, C#, .NET</p>
-    <p>🔭 <b>Exploring</b>: Web Dev & Automation</p>
+    <p>🔭 <b>Exploring</b>: Web Dev, Software Dev, UI UX Design & Automation</p>
     <p>💡 <b>Research</b>: SkillVerify System</p>
     <p>🧠 <b>Goal</b>: Solve real-world problems</p>
     <p>🆔 <b>ID</b>: S22009961 | 622515109</p>
