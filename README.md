@@ -132,6 +132,5 @@
 <div align="center" style="margin-top: 50px;">
   <p style="font-size: 0.9em; color: #777;">"Learning every day, coding every night!"</p>
   <p style="font-size: 0.8em; color: #999;">© 2023 Poornima Wijesinghe | Open University of Sri Lanka</p>
-  <img src="https://raw.githubusercontent.com/Nilushka169/Nilushka169/main/wave-divider.svg" width="100% " style="transform: rotate(90deg)>
-  
+  <img src="https://raw.githubusercontent.com/Nilushka169/Nilushka169/main/wave-divider.svg" width="100% " style="transform: rotate(180deg)>
 </div>
