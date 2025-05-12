@@ -141,5 +141,5 @@
           fill="#91EAE4"></path>
   </svg>
   <p style="font-size: 0.9em; color: #777; margin-top: 20px;">"Learning every day, coding every night!"</p>
-  <p style="font-size: 0.8em; color: #999;">© 2023 Nilu Poornima | Open University of Sri Lanka</p>
+  <p style="font-size: 0.8em; color: #999;">© 2023 Poornima Wijesinghe | Open University of Sri Lanka</p>
 </div>
