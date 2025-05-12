@@ -15,6 +15,12 @@
     <span style="color: #7F7FD5">i</span>
     <span style="color: #86A8E7">j</span>
     <span style="color: #91EAE4">e</span>
+    <span style="color: #7F7FD5">s</span>
+    <span style="color: #86A8E7">i</span>
+    <span style="color: #91EAE4">n</span>
+    <span style="color: #7F7FD5">g</span>
+    <span style="color: #86A8E7">h</span>
+    <span style="color: #91EAE4">e</span>
   </h1>
   <p>Software Engineering Student | Full-Stack Developer</p>
   
