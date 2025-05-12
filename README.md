@@ -122,9 +122,9 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Nilushka169&show_icons=true&theme=default&bg_color=00000000&hide_border=true&title_color=7F7FD5&icon_color=86A8E7&text_color=555" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilushka169&theme=default&background=00000000&hide_border=true&stroke=7F7FD5&ring=91EAE4&fire=86A8E7&currStreakNum=555" width="48%">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilushka169&layout=compact&theme=default&bg_color=00000000&hide_border=true&title_color=91EAE4&text_color=555" width="60%">
-</div> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilushka169&theme=default&background=00000000&hide_border=true&stroke=7F7FD5&ring=91EAE4&fire=86A8E7&currStreakNum=555" width="48%"> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilushka169&layout=compact&theme=default&bg_color=00000000&hide_border=true&title_color=91EAE4&text_color=555" width="60%">
+</div>
 
 ---
 
