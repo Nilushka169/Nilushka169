@@ -1,7 +1,10 @@
 <div align="center">
   
   <!-- 3D Animated Avatar Header -->
-  <img src="https://raw.githubusercontent.com/Nilushka169/Nilushka169/main/assets/3d-avatar.gif" width="100">
+  <video width="100" autoplay loop muted playsinline>
+  <source src="https://raw.githubusercontent.com/Nilushka169/Nilushka169/main/assets/3d-avatar.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
   <h1>
     <span style="color: #7F7FD5">P</span>
     <span style="color: #86A8E7">o</span>
