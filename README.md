@@ -33,7 +33,7 @@
     <a href="#">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
     </a>
-<!--     <img src="https://komarev.com/ghpvc/?username=Nilushka169&color=7F7FD5"> -->
+    <img src="https://komarev.com/ghpvc/?username=Nilushka169&color=7F7FD5">
   </p>
 </div>
 
