@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 3D Animated Avatar Header -->
-  <img src="https://raw.githubusercontent.com/NiluPoornima/NiluPoornima/main/assets/3d-avatar.gif" width="200">
+  <img src="https://raw.githubusercontent.com/Nilushka169/Nilushka169/main/assets/3d-avatar.gif" width="200">
   <h1>
     <span style="color: #7F7FD5">P</span>
     <span style="color: #86A8E7">o</span>
