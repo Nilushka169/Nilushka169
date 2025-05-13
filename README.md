@@ -33,9 +33,9 @@
     <a href="mailto:nilupoornima@gmail.com">
       <img src="https://img.shields.io/badge/Email-FF5252?style=flat&logo=gmail&logoColor=white">
     </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
-    </a>
+      <a href="https://your-portfolio-url.com" target="_blank"> <!-- Replace with your actual portfolio URL -->
+    <img src="https://img.shields.io/badge/Portfolio-7F7FD5?style=flat&logo=google-chrome&logoColor=white">
+  </a>
     <img src="https://komarev.com/ghpvc/?username=Nilushka169&color=7F7FD5">
   </p>
 </div>
